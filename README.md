@@ -1,6 +1,6 @@
 <h1 align="center">Dicee - iOS App</h1>
 
-**Dicee** is an iOS app that simulates a Las Vegas-style dice roll experience. Whether you want to roll the dice by pressing a button, this app lets you settle any score, roll, or game on the go. It's a fun and interactive way to bring the excitement of dice games to your pocket!
+**Dicee** is an iOS app that simulates a Las Vegas-style dice roll experience. You can roll the dice by pressing a button, this app lets you settle any score, roll, or game on the go. It's a fun and interactive way to bring the excitement of dice games to your pocket!
 
 ## Features :
 
