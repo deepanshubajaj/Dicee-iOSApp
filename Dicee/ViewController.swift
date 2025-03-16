@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Dicee
 //
-//  Created by Deepanshu Bajaj on 29/09/2024.
+//  Created by Deepanshu Bajaj on 29/09/24.
 //
 
 import UIKit
